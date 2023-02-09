@@ -16,3 +16,7 @@ Scripts Documentation
 12.11-directoriew_permissions: Adds execute permission to all subdirectoriew of the current directory for the owner , the group owner and all other users.Does not change regular files.
 13.12-directory_permissions: Creates a directory called my_dire with permissions 751 in the working directory.
 14.13-change_group: Changes the group owner to school for the file hello.
+15.100-change_owner_and_group: Changes the owner ro vincent and the group owner to staff for all the files and directories in the working directory.
+16.101-symbolic_link_permissions: changes the owner and the group owner of _hello to vincent and staff respectively.
+17.102-if_only:changes the owner of the file hello to betty only if itis owned by the user guillaume.
+18.103-Star-Wars: plays the StarWards IV episode in the terminal.
